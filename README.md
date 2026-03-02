@@ -2,7 +2,7 @@
 
 NEXUS-LEARN is a cloud-native, adaptive learning platform built to improve student outcomes while reducing institutional overhead. It combines real-time learner profiling, AI-assisted personalization, and an administrative command center in a single React + Firebase application.
 
-## LIVE WEBSITE URL : https://project-nexsus-learn.vercel.app/
+## LIVE WEBSITE URL : https://project-nexus-learn.vercel.app/
 
 ## Executive Overview
 
